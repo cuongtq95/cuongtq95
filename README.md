@@ -1,0 +1,74 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img alt="Trịnh Quang Cường - Cường Trade" src="./assets/banner-light.svg" width="100%">
+  </picture>
+
+  <p>
+    <a href="https://www.facebook.com/cuongtq95/">
+      <img src="https://img.shields.io/badge/Facebook-cuongtq95-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://zalo.me/0901191295">
+      <img src="https://img.shields.io/badge/Zalo-0901%20191%20295-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo 0901191295">
+    </a>
+    <img src="https://img.shields.io/badge/TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh-A91418?style=for-the-badge" alt="TP. Hồ Chí Minh">
+  </p>
+</div>
+
+## Giới Thiệu Ngắn Gọn
+
+- Chuyên ngành **Dược học**, hiện sinh sống và làm việc tại **Thành phố Hồ Chí Minh**.
+- **5 năm làm việc tại Công ty Dược phẩm Sohaco**: cả 5 năm đều đạt danh hiệu **Chiến sĩ thi đua** và **Nhân viên xuất sắc**.
+- Hiện phụ trách **Trade Marketing tại Công ty TNHH HMB Miền Nam** và vận hành **Cơ sở nước đá tinh khiết Hưng Long** tại Chơn Thành, Bình Phước.
+- Thế mạnh cá nhân: học hiểu nhanh, nắm bản chất vấn đề và ứng dụng công cụ AI vào công việc thực tế.
+
+## Bốn Mảng Đang Tập Trung
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Quản lý và Trade Marketing</strong><br>
+      Lập kế hoạch bán hàng theo số liệu, thiết kế chương trình điểm bán, đào tạo sản phẩm, rèn kỹ năng giao tiếp, xử lý từ chối và quản lý đội nhóm.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Kinh doanh và Đầu tư</strong><br>
+      Quản trị chi phí, giá vốn, điểm hòa vốn tại cơ sở nước đá tinh khiết Hưng Long và mở rộng đầu tư kinh doanh dựa trên dòng tiền thực tế.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Học tập và Ứng dụng AI</strong><br>
+      Tự động hóa xử lý bảng tính, báo cáo, bài trình chiếu và xây dựng hệ thống tài liệu cá nhân phục vụ học nhanh, làm việc có hệ thống.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Thương hiệu cá nhân</strong><br>
+      Chia sẻ góc nhìn thực tế từ công việc và quá trình tự học theo phong cách mộc mạc, gần gũi, dễ hiểu trên mạng xã hội.
+    </td>
+  </tr>
+</table>
+
+## Công Cụ Làm Việc Hằng Ngày
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/CapCut-1C1917?style=flat-square" alt="CapCut">
+  <img src="https://img.shields.io/badge/Zalo-0068FF?style=flat-square" alt="Zalo">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## Nguyên Tắc Làm Việc
+
+- **Với số liệu và báo cáo:** Đi thẳng vào con số thực tế, chỉ rõ nguyên nhân và đề xuất hướng xử lý.
+- **Với đối tác:** Thực tế, tôn trọng và nêu rõ quyền lợi cùng điều kiện của từng bên.
+- **Với công cụ AI:** Ưu tiên phản biện thẳng, chỉ ra lỗ hổng trước khi làm, nói tiếng Việt giản dị và không xu nịnh.
+
+---
+
+<div align="center">
+  Kết nối trực tiếp qua <a href="https://www.facebook.com/cuongtq95/">Facebook</a> hoặc Zalo <strong>0901 191 295</strong>.
+</div>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Trịnh Quang Cường - Cường Trade">
+  <defs>
+    <linearGradient id="accentGradD" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E04F54"/>
+      <stop offset="100%" stop-color="#A91418"/>
+    </linearGradient>
+    <pattern id="dotsD" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#3A3732"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#161615" stroke="#2E2C29" stroke-width="2"/>
+  <rect x="1" y="1" width="12" height="298" rx="6" fill="url(#accentGradD)"/>
+  <rect x="860" y="28" width="300" height="244" rx="14" fill="url(#dotsD)" opacity="0.8"/>
+  <circle cx="1050" cy="150" r="106" fill="none" stroke="#E04F54" stroke-width="1.8" opacity="0.28"/>
+  <circle cx="1050" cy="150" r="70" fill="#2A1819" stroke="#6B2B2D" stroke-width="1.5"/>
+  <text x="1050" y="146" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#E04F54">TC</text>
+  <text x="1050" y="172" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#B8B2A8" letter-spacing="1.2">1995 - HCM</text>
+
+  <text x="58" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#E04F54" letter-spacing="1.4">DƯỢC HỌC  •  TRADE MARKETING  •  KINH DOANH  •  ỨNG DỤNG AI</text>
+  <text x="58" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#F5F3EF">TRỊNH QUANG CƯỜNG</text>
+
+  <rect x="58" y="142" width="136" height="30" rx="15" fill="#E04F54"/>
+  <text x="126" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Cường Trade</text>
+
+  <text x="210" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#D6D1C7">HMB Miền Nam  |  Nước đá Hưng Long  |  TP. Hồ Chí Minh</text>
+
+  <rect x="58" y="212" width="232" height="38" rx="9" fill="#22211E" stroke="#383530" stroke-width="1.4"/>
+  <text x="174" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F5F3EF">5 năm Chiến sĩ thi đua Sohaco</text>
+
+  <rect x="304" y="212" width="190" height="38" rx="9" fill="#22211E" stroke="#383530" stroke-width="1.4"/>
+  <text x="399" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#F5F3EF">Phản biện thực tế</text>
+
+  <rect x="508" y="212" width="204" height="38" rx="9" fill="#2A1819" stroke="#6B2B2D" stroke-width="1.4"/>
+  <text x="610" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#E04F54">Tự động hóa với AI</text>
+</svg>
