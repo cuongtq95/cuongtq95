@@ -2,17 +2,19 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Trịnh Quang Cường - Cường Trade" src="./assets/banner-light.svg" width="100%">
+    <img alt="Trịnh Quang Cường - cuongtq" src="./assets/banner-light.svg" width="100%">
   </picture>
 
-  <p>
+  <p align="center">
     <a href="https://www.facebook.com/cuongtq95/">
-      <img src="https://img.shields.io/badge/Facebook-cuongtq95-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+      <img src="./assets/btn-facebook.svg" alt="Facebook cuongtq95" height="36">
     </a>
+    &nbsp;
     <a href="https://zalo.me/0901191295">
-      <img src="https://img.shields.io/badge/Zalo-0901%20191%20295-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo 0901191295">
+      <img src="./assets/btn-zalo.svg" alt="Zalo 0901 191 295" height="36">
     </a>
-    <img src="https://img.shields.io/badge/TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh-A91418?style=for-the-badge" alt="TP. Hồ Chí Minh">
+    &nbsp;
+    <img src="./assets/btn-location.svg" alt="TP. Hồ Chí Minh" height="36">
   </p>
 </div>
 
@@ -51,14 +53,14 @@
 ## Công Cụ Làm Việc Hằng Ngày
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square" alt="Excel">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square" alt="PowerPoint">
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&amp;logo=googledrive&amp;logoColor=white" alt="Google Drive">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/CapCut-1C1917?style=flat-square" alt="CapCut">
   <img src="https://img.shields.io/badge/Zalo-0068FF?style=flat-square" alt="Zalo">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
 </p>
 
 ## Nguyên Tắc Làm Việc

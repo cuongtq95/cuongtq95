@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Trịnh Quang Cường - Cường Trade">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Trịnh Quang Cường - cuongtq">
   <defs>
     <linearGradient id="accentGradL" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#A91418"/>
@@ -8,28 +8,22 @@
       <circle cx="3" cy="3" r="1.5" fill="#D6D1C7"/>
     </pattern>
   </defs>
-  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#FAF9F6" stroke="#E5E0D6" stroke-width="2"/>
-  <rect x="1" y="1" width="12" height="298" rx="6" fill="url(#accentGradL)"/>
-  <rect x="860" y="28" width="300" height="244" rx="14" fill="url(#dotsL)" opacity="0.7"/>
-  <circle cx="1050" cy="150" r="106" fill="none" stroke="#A91418" stroke-width="1.8" opacity="0.18"/>
-  <circle cx="1050" cy="150" r="70" fill="#FDF2F2" stroke="#F2C8C9" stroke-width="1.5"/>
-  <text x="1050" y="146" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#A91418">TC</text>
-  <text x="1050" y="172" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#57534E" letter-spacing="1.2">1995 - HCM</text>
+  <rect x="1" y="1" width="1198" height="228" rx="18" fill="#FAF9F6" stroke="#E5E0D6" stroke-width="2"/>
+  <rect x="1" y="1" width="12" height="228" rx="6" fill="url(#accentGradL)"/>
+  <rect x="920" y="24" width="244" height="182" rx="14" fill="url(#dotsL)" opacity="0.65"/>
+  <circle cx="1070" cy="115" r="78" fill="none" stroke="#A91418" stroke-width="1.6" opacity="0.18"/>
+  <circle cx="1070" cy="115" r="48" fill="#FDF2F2" stroke="#F2C8C9" stroke-width="1.4"/>
 
-  <text x="58" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#A91418" letter-spacing="1.4">DƯỢC HỌC  •  TRADE MARKETING  •  KINH DOANH  •  ỨNG DỤNG AI</text>
-  <text x="58" y="122" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#1C1917">TRỊNH QUANG CƯỜNG</text>
+  <text x="58" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800" fill="#1C1917">TRỊNH QUANG CƯỜNG</text>
 
-  <rect x="58" y="142" width="136" height="30" rx="15" fill="#A91418"/>
-  <text x="126" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Cường Trade</text>
+  <rect x="524" y="47" width="96" height="32" rx="16" fill="#A91418"/>
+  <text x="572" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">cuongtq</text>
 
-  <text x="210" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="#44403C">HMB Miền Nam  |  Nước đá Hưng Long  |  TP. Hồ Chí Minh</text>
+  <rect x="58" y="112" width="330" height="58" rx="10" fill="#FFFFFF" stroke="#E5E0D6" stroke-width="1.4"/>
+  <text x="78" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#A91418">CHUYÊN NGÀNH</text>
+  <text x="78" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1C1917">Dược học</text>
 
-  <rect x="58" y="212" width="232" height="38" rx="9" fill="#FFFFFF" stroke="#E5E0D6" stroke-width="1.4"/>
-  <text x="174" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1C1917">5 năm Chiến sĩ thi đua Sohaco</text>
-
-  <rect x="304" y="212" width="190" height="38" rx="9" fill="#FFFFFF" stroke="#E5E0D6" stroke-width="1.4"/>
-  <text x="399" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1C1917">Phản biện thực tế</text>
-
-  <rect x="508" y="212" width="204" height="38" rx="9" fill="#FDF2F2" stroke="#F2C8C9" stroke-width="1.4"/>
-  <text x="610" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#A91418">Tự động hóa với AI</text>
+  <rect x="406" y="112" width="380" height="58" rx="10" fill="#FFFFFF" stroke="#E5E0D6" stroke-width="1.4"/>
+  <text x="426" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#A91418">NGHỀ NGHIỆP</text>
+  <text x="426" y="157" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1C1917">Trade Marketing</text>
 </svg>
