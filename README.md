@@ -50,6 +50,20 @@
   </tr>
 </table>
 
+## Dự Án Đã Thực Hiện
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <strong><a href="https://thiduamomoi.ai.studio/momoid2/">Thi đua HMB Miền Nam</a></strong><br>
+      Ứng dụng web theo dõi và tổng hợp chương trình thi đua mở mới điểm bán Đợt 2 cho đội ngũ kinh doanh HMB Miền Nam.<br><br>
+      <a href="https://thiduamomoi.ai.studio/momoid2/">
+        <img src="./assets/btn-open-app.svg" alt="Mở ứng dụng Thi đua HMB Miền Nam" height="32">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Công Cụ Làm Việc Hằng Ngày
 
 <p>
